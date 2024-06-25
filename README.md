@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Niranjan</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/niranjan1615/niranjan1615/assets/88855802/e89d30ce-7a87-4282-9eea-76399b8a54c1">
-">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niranjan1615&label=Profile%20views&color=0e75b6&style=flat" alt="niranjan1615" /> </p>
 
